@@ -27,6 +27,6 @@
 
 **Манипуляция** это общее название для теста области наиболее проторгованного объёма, ребаланса области наименее проторгованного объёма или фрактального снятия.
 
-- [Fractal Point](./fractal_point.pdf)
-- [Компрессия](./compression.pdf)
-- [EQL / EQH](./EQL_EQH.pdf)
+- [Fractal Point](./docs/fractal_point.pdf)
+- [Компрессия](./docs/compression.pdf)
+- [EQL / EQH](./docs/EQL_EQH.pdf)
