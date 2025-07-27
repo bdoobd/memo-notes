@@ -35,4 +35,4 @@
 - [Volume Confirmation](./docs/Volume_Confirmation.pdf)
 - [Rejection](./docs/Rejection.pdf)
 - [Rejection Block](./docs/Rejection_Block.pdf)
-- [Валидвция Rejection Block](./docs/Validating_RB.pdf)
+- [Валидация Rejection Block](./docs/Validating_RB.pdf)
