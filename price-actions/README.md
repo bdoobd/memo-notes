@@ -36,3 +36,6 @@
 - [Rejection](./docs/Rejection.pdf)
 - [Rejection Block](./docs/Rejection_Block.pdf)
 - [Валидация Rejection Block](./docs/Validating_RB.pdf)
+- [Fair Value Gap (FVG)](./docs/FVG.pdf)
+- [Inverted Fair Value Gap (IFVG)](./docs/IFVG.pdf)
+- [Валидация FVG](./docs/Validating_FVG.pdf)
