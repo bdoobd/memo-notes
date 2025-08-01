@@ -42,4 +42,5 @@
 - [Зоны наиболее проторгованного объёма](./docs/Most_Traded_Volume.pdf)
 - [Support And Resistance (SNR)](./docs/SNR.pdf)
 - [Mitigation Block (MB)](./docs/MB.pdf)
+- [Выделение блоков SNR, RB, MB](./docs/Selecting_Blocks.pdf)
 - [Валидация SNR и MB](./docs/Validating_SNR.pdf)
