@@ -41,5 +41,5 @@
 - [Валидация FVG](./docs/Validating_FVG.pdf)
 - [Зоны наиболее проторгованного объёма](./docs/Most_Traded_Volume.pdf)
 - [Support And Resistance (SNR)](./docs/SNR.pdf)
-- [Mitigation Block](./docs/MB.pdf)
+- [Mitigation Block (MB)](./docs/MB.pdf)
 - [Валидация SNR и MB](./docs/Validating_SNR.pdf)
