@@ -1,7 +1,7 @@
 # Trading Notes
 
-[Price Actions ](./price-actions/README.md)
-[Price Actions ](./entey_points/README.md)
+[Price Actions ](./price-actions/README.md)  
+[Точки входа ](./entry_points/README.md)
 
 ## Что такое рынок?
 
