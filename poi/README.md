@@ -4,8 +4,8 @@
 
 - [SNR](./docs/SNR.pdf)
 - [MB](./docs/MB.pdf)
-- [RB](./docs/RB.pdf)
 - [FVG](./docs/FVG.pdf)
+- [RB](./docs/RB.pdf)
 - [Fractal Point](./docs/Fractal.pdf)
 
 **POI (Point Of Interest)** - зоны интереса, ценовая область на графике, где ожидается возможная реакция рынка (разворот, откат, продолжение движения).  
