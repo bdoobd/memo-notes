@@ -16,3 +16,4 @@
 - FVG (Fair Value Gap)
 - RB (Rejection Block)
 - Fractal Point
+  ![POI_Validation](../assets/images/validation.jpg)
