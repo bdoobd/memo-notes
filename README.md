@@ -3,6 +3,7 @@
 [Price Actions ](./price-actions/README.md)  
 [Точки входа ](./entry-points/README.md)  
 [Работа с POI](./poi/README.md)
+[Движение цены](./price-move/README.md)
 
 ## Что такое рынок?
 
